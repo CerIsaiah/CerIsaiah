@@ -56,9 +56,3 @@ I like going from idea → deployed product → real users fast so I've been pri
 **AI/ML:** OpenAI APIs, NLP  
 **Infra:** Supabase, PostgreSQL, Vercel, VPS (Linux), CI/CD  
 **Other:** Puppeteer, automation systems, scraping  
-
----
-## 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/in/isaiah-cerven/)
-
----
