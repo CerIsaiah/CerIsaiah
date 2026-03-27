@@ -1,34 +1,66 @@
-# 👋 Hello World! I'm Isaiah!
+# Hi I’m Isaiah!
 
-I'm a passionate software developer with a knack for creating innovative solutions to real-world problems. I love working on projects that merge cutting-edge technology with impactful applications, from AI-driven accessibility tools to responsive SaaS products and everything in between. Here’s a little glimpse into some of my favorite projects:
+I’m a software engineer focused on building **AI-driven products and automation systems** that people actually use.
 
----
-
-### 🎓 Alumni Nexus
-  - **🛠️ Tech:** Selenium, Beautiful Soup, NoSQL, DevOps CI/CD, Agile, Python
-  - **🔍 What I Did:** Reverse-engineered the Handshake job site to scrape and populate a NoSQL database with over 10,000 job listings, tailored for alumni. Also built a Google scraper to match alumni to relevant jobs, achieving an 89% success rate. As the DevOps lead, I implemented CI/CD pipelines, boosting our deployment cycle speed by 10% and ensuring agile development.
-
-### 🤟 Signify Your AI
-  - **🛠️ Tech:** CNN Architecture, Mediapipe API, PyTorch, Python
-  - **🤖 What I Did:** Developed a CNN model with 96% accuracy to translate over 10,000 ASL signs into text, enhancing accessibility for the hearing-impaired. I worked on optimizing datasets and testing machine learning preprocessing techniques. Shared insights in ML communities and collaborated on advancements in accessibility tech!
-
-### 💬 Commentmarketer.com *(Deployed SaaS)*
-  - **🛠️ Tech:** YouTube Rest API, Flask, HTML5, Postgres, Tailwind CSS
-  - **🌐 What I Did:** Launched an automated commenting tool for startups to engage with their audiences on YouTube. With a seamless UI and responsive design, I achieved 99% uptime and user satisfaction, growing our platform to over 10 users on day one through targeted outreach on Reddit and Twitter.
-
-### 🎮 TurboMow 3000
-  - **🛠️ Tech:** OOP, Data Structures, Java
-  - **🎮 What I Did:** Built a quirky 2D side-scrolling game that attracted over 20 plays within 30 minutes of launch! With a unique speed mode and visually appealing effects, it won “Most Creative Game” at a local competition. I had a blast combining creativity with code on this one!
-
-### 🌱 EcoSkillSync
-  - **🛠️ Tech:** Python, DistilBERT, NLP, TensorFlow
-  - **🌍 What I Did:** Created an AI-powered skill-matching system to assist individuals in transitioning to top green jobs. Using DistilBERT, I converted thousands of job skills into vectors, achieving 90% accuracy in skill-to-job matching. This project merges my passion for sustainability and tech!
+I like going from **idea → deployed product → real users**, especially in areas like LLMs, growth systems, and consumer apps.
 
 ---
 
-When I'm not coding, you might find me exploring the latest in AI/ML, contributing to open-source projects, or experimenting with new tech stacks. Let's connect and build something great together!
+## 🚀 What I Do
+- Build and launch **AI-powered products** (LLMs, automation, SaaS)  
+- Design systems that optimize for **real-world usage + growth**  
+- Move fast — prototype, test, iterate  
+- Focus on products that combine **engineering + distribution**
 
-### 🌟 Let's Connect:
+---
+
+## 🧠 Projects
+
+### 💬 Private Repo - SmoothRizz *(AI Product — 3K+ Users)*
+**Tech:** Next.js, React, Supabase, PostgreSQL, Stripe, OpenAI API, RevenueCat, Vercel  
+- Engineered and launched an AI-powered conversation assistant generating **context-aware replies + openers**  
+- Built dynamic response pipelines adapting outputs based on **user swipes, tone, and conversation context**  
+- Curated and fine-tuned a proprietary dataset to improve **output quality, personalization, and style consistency**  
+- Drove early traction to **1.5K+ users** and hundreds of weekly visitors via SEO + automated growth strategies  
+
+---
+
+### 🤖 OpenClaw TikTok Automation *(Growth + Automation System)*
+**Tech:** OpenClaw, Puppeteer, Node.js, JavaScript, VPS (Linux), Telegram  
+- Built an end-to-end TikTok automation pipeline enabling **fully automated content posting**  
+- Designed VPS ↔ local machine architecture with **remote browser execution controlled via Telegram**  
+- Automated video workflow: sound selection, caption generation, and publishing  
+- Generated organic traction with videos reaching **500+ views/post** and **20+ users in first week**  
+- Designed system to extend into **automated outreach + growth workflows**  
+
+---
+
+### 🌐 CommentMarketer *(SaaS)*
+**Tech:** Flask, YouTube API, Postgres, Tailwind  
+- Built and deployed a tool for automated YouTube engagement  
+- Achieved **99% uptime** with a lightweight, responsive UI  
+- Acquired initial users through targeted distribution (Reddit, Twitter)  
+
+---
+
+### 🎓 Alumni Nexus *(Data + Automation)*
+**Tech:** Python, Selenium, BeautifulSoup, NoSQL  
+- Reverse-engineered job platforms to aggregate **10k+ listings**  
+- Built matching system connecting users → relevant opportunities  
+- Implemented CI/CD pipelines to improve iteration speed  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** JavaScript, TypeScript, Python, SQL  
+**Frontend:** React, Next.js, Tailwind  
+**Backend:** Node.js, Flask  
+**AI/ML:** OpenAI APIs, NLP  
+**Infra:** Supabase, PostgreSQL, Vercel, VPS (Linux), CI/CD  
+**Other:** Puppeteer, automation systems, scraping  
+
+---
+## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/isaiah-cerven/)
 
-Feel free to explore my repos, open issues, or collaborate with me on a new idea. Happy coding! 🚀
+---
