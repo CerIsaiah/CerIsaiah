@@ -1,15 +1,13 @@
 # Hi I’m Isaiah!
 
-I’m a software engineer focused on building **AI-driven products and automation systems** that people actually use.
+I’m a software engineer that likes to make cool stuff that people use.
 
-I like going from **idea → deployed product → real users**, especially in areas like LLMs, growth systems, and consumer apps.
+I like going from idea → deployed product → real users fast so primarily ive been working on consumer apps.
 
 ---
 
 ## 🚀 What I Do
 - Build and launch **AI-powered products** (LLMs, automation, SaaS)  
-- Design systems that optimize for **real-world usage + growth**  
-- Move fast — prototype, test, iterate  
 - Focus on products that combine **engineering + distribution**
 
 ---
