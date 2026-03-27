@@ -1,8 +1,8 @@
-# Hi I’m Isaiah!
+# Hi, I’m Isaiah!
 
 I’m a software engineer that likes to make cool stuff that people use.
 
-I like going from idea → deployed product → real users fast so primarily I've been working on consumer apps.
+I like going from idea → deployed product → real users fast so I've been primarily working on consumer apps.
 
 ---
 
